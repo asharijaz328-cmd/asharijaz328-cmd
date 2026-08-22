@@ -10,8 +10,8 @@
 ### 👨‍💻 About Me
 
 - 🎓 Currently pursuing a **BS in Computer Science** at **Khawaja Fareed University of Engineering & Information Technology**.
-- 🌟 **Team Captain** at **Quantum Logics Community**, leading Team Pluto to build **StudyMind AI**.
-- 💼 Currently interning at **CodeAlpha** (Backend Development) & **Hex Softwares** (Web Development).
+- 🌟 **Team Captain & Web Developer Intern** at **Quantum Logics Community**, leading Team Pluto to build the **StudyMind AI** web app.
+- 💼 Currently interning at **CodeAlpha** (Front-End & Backend Development) & **Hex Softwares** (Web Development).
 - 📜 Advancing my skills through the **Meta Front-End Developer Professional Certificate**.
 - 💡 Passionate about building responsive web applications, secure backend systems, and AI-integrated workspaces.
 - 📫 How to reach me: **[asharijaz.cs@gmail.com]** **[ https://www.linkedin.com/in/ashar-ijaz]**
@@ -37,7 +37,7 @@
 
 * **StudyMind AI (Quantum Learning Workspace)** 🤖: An AI-powered learning platform where students can upload PDFs/videos, generate quizzes, and build personalized study roadmaps.
 * **CrownMill POS (Point of Sale)** 🛒: A comprehensive offline desktop POS system with secure login, receipt printing, and complete inventory & sales management.
-* **Full-Fledged E-Commerce Store** 🛍️: A responsive and scalable online store applying best practices in web development and digital marketing.
+* **E-Commerce Store** 🛍️: A responsive and scalable online store applying best practices in web development and digital marketing.
 
 ---
 
