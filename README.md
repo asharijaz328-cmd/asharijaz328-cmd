@@ -14,7 +14,7 @@
 - 💼 Currently interning at **CodeAlpha** (Backend Development) & **Hex Softwares** (Web Development).
 - 📜 Advancing my skills through the **Meta Front-End Developer Professional Certificate**.
 - 💡 Passionate about building responsive web applications, secure backend systems, and AI-integrated workspaces.
-- 📫 How to reach me: **[asharijaz.cs@gmail.com]**
+- 📫 How to reach me: **[asharijaz.cs@gmail.com]** **[ https://www.linkedin.com/in/ashar-ijaz]**
 
 ---
 
