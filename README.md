@@ -36,7 +36,7 @@
 ### 🚀 Featured Projects
 
 * **StudyMind AI (Quantum Learning Workspace)** 🤖: An AI-powered learning platform where students can upload PDFs/videos, generate quizzes, and build personalized study roadmaps.
-* **Azam Traders (Business Management System)** 🏢: A custom offline desktop POS system with secure login, receipt printing, and complete inventory, sales management, billing & daily business operations.
+* **Azam Traders (Point of Sale)** 🏢: A custom offline desktop POS system with secure login, receipt printing, and complete inventory, sales management, billing & daily business operations.
 * **CrownMill POS (Point of Sale)** 🛒: A comprehensive offline desktop POS system with secure login, receipt printing, and complete inventory & sales management.
 * **Full-Fledged E-Commerce Store** 🛍️: A responsive and scalable online store applying best practices in web development and digital marketing.
 * **Personal Portfolio Website** 🌐: A modern, responsive web portfolio built to showcase my software engineering projects, certifications, and tech journey.
