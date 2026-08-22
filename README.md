@@ -13,7 +13,7 @@
 - 🌟 **Team Captain & Web Developer Intern** at **Quantum Logics Community**, leading Team Pluto to build the **StudyMind AI** web app.
 - 💼 Currently interning at **CodeAlpha** (Front-End & Backend Development) & **Hex Softwares** (Web Development).
 - 📜 Advancing my skills through the **Meta Front-End Developer Professional Certificate**.
-- 💡 Passionate about building responsive web applications, Point of Sale(POS) &secure backend systems.
+- 💡 Passionate about building responsive web applications, Point of Sale(POS) & secure backend systems.
 - 📫 How to reach me: **[asharijaz.cs@gmail.com]** **[ https://www.linkedin.com/in/ashar-ijaz]**
 
 ---
